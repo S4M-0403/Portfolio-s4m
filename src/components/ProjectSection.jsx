@@ -7,7 +7,7 @@ const projects = [
         description: "A responsive MERN-based web app for browsing, booking, and reviewing hotels with integrated Google Maps support.",
         image: "/projects/airbnb.png",
         tags: ["Express.js", "Node.js", "MongoDB"],
-        github: "#"
+        github: "https://github.com/S4M-0403/Wanderlust"
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const projects = [
         description: "Enables seamless communication by translating sign language into text and speech using AI, OpenCV, and TensorFlow.",
         image: "projects/signspeak.png",
         tags: ["React", "WebRTC", "WebSockets"],
-        github: "#"
+        github: "https://github.com/S4M-0403/signSpeak"
     },
     {
         id: 3,
@@ -23,7 +23,7 @@ const projects = [
         description: "A transformer-based semi-supervised pipeline achieving high-accuracy classification across multi-band hyperspectral data.",
         image: "/projects/hyperspectral.png",
         tags: ["Python", "Pytorch", "Jupyter Notebook"],
-        github: "#"
+        github: "https://github.com/S4M-0403/Hyperspectral-image-classification-model"
     },
 
 ];
