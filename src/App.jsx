@@ -2,6 +2,7 @@ import { Home } from "./pages/home";
 import { NotFound } from "./pages/notFound";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Toaster } from "@/components/ui/toaster";
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
 
